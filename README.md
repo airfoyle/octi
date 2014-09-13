@@ -1,4 +1,4 @@
 octi
 ====
 
-Further exploration of Octi
+Further exploration of Octi, based on code created by Kwabena Boateng.
